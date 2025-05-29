@@ -1,0 +1,1852 @@
+[
+    {
+        "id": 1,
+        "name": "15508730000",
+        "description": "LLANTA 185/65R15 88H POWERCONTACT 2",
+        "price": 96.31,
+        "stock": 41,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-107932638-28795857.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "04/02/2025"
+    },
+    {
+        "id": 2,
+        "name": "04502070000",
+        "description": "LLANTA 245/70R16 107S FR GRAB ATX",
+        "price": 99.83,
+        "stock": 31,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-aj4xo-30944611.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 7,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "22/08/2025"
+    },
+    {
+        "id": 3,
+        "name": "04516220000",
+        "description": "LLANTA 205/75R16C 113/111R VANC100",
+        "price": 75.26,
+        "stock": 42,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-artawkrn-20256374.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "16/10/2025"
+    },
+    {
+        "id": 4,
+        "name": "15409050000",
+        "description": "LLANTA 185/65R14 86T BRAVURIS 5HM",
+        "price": 35.81,
+        "stock": 38,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bertellifotografia-17042858.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "04/02/2025"
+    },
+    {
+        "id": 5,
+        "name": "15409010000",
+        "description": "LLANTA 175/70R13 82TBRAVURIS 5HM",
+        "price": 32.12,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bradikan-31043183.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "30/05/2025"
+    },
+    {
+        "id": 6,
+        "name": "15409040000",
+        "description": "LLANTA 185/60R14 BARUM BRAVURIS",
+        "price": 35.27,
+        "stock": 10,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-chris-f-38966-8419076.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 5,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "28/10/2025"
+    },
+    {
+        "id": 7,
+        "name": "15506060000",
+        "description": "LLANTA 205/55R16 91V FR GMAXRS",
+        "price": 49.82,
+        "stock": 23,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-elpsyx-9207032.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 5,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "03/01/2025"
+    },
+    {
+        "id": 8,
+        "name": "15508610000",
+        "description": "LLANTA 205/55R16 91V FR POWC 2",
+        "price": 43.24,
+        "stock": 32,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-tinchflicks-29054547.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 6,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "24/12/2025"
+    },
+    {
+        "id": 9,
+        "name": "15409460000",
+        "description": "LLANTA 195/55R15 BRAVURIS 5HM",
+        "price": 65.28,
+        "stock": 33,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-thapelo-boateng-233479440-14583147.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "10/06/2025"
+    },
+    {
+        "id": 10,
+        "name": "15409080000",
+        "description": "LLANTA 185/70R14 BRAVURIS 5HM",
+        "price": 59.87,
+        "stock": 16,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-rodrigo-chable-380091428-18502451.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 4,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "21/11/2025"
+    },
+    {
+        "id": 11,
+        "name": "15508710000",
+        "description": "LLANTAS 185/70R14 88T POWC 2",
+        "price": 33.4,
+        "stock": 13,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noelace-16108559.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "20/05/2025"
+    },
+    {
+        "id": 12,
+        "name": "15508960000",
+        "description": "LLANTA 175/70R14 84T ALT XP7",
+        "price": 49.3,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noblursbyshivam-9182360.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "31/01/2025"
+    },
+    {
+        "id": 13,
+        "name": "15508900000",
+        "description": "LLANTA 175/70R13 ALTIMAX XP7",
+        "price": 53.37,
+        "stock": 21,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-juan-montes-92812630-12862492.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 3,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "01/06/2025"
+    },
+    {
+        "id": 14,
+        "name": "03589310000",
+        "description": "LLANTA 215/60R16 95V POWC 2",
+        "price": 42.29,
+        "stock": 40,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-introspectivedsgn-12920307.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "13/11/2025"
+    },
+    {
+        "id": 15,
+        "name": "15508660000",
+        "description": "LLANTA 175/70R14 84T POWC 2",
+        "price": 64.51,
+        "stock": 25,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-borta-2790256-31574041.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "26/09/2025"
+    },
+    {
+        "id": 16,
+        "name": "15409100000",
+        "description": "LLANTA 195/60R15 88H BRAV5",
+        "price": 69.15,
+        "stock": 22,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-107932638-28795857.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "25/03/2025"
+    },
+    {
+        "id": 17,
+        "name": "15409030000",
+        "description": "LLANTA 185/60R13 80T BRAV5",
+        "price": 38.58,
+        "stock": 44,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-aj4xo-30944611.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 7,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "13/08/2025"
+    },
+    {
+        "id": 18,
+        "name": "04509950000",
+        "description": "LLANTA 235/75R15 104/101S",
+        "price": 64.41,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-artawkrn-20256374.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 5,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "07/08/2025"
+    },
+    {
+        "id": 19,
+        "name": "04514020000",
+        "description": "LLANTA 195/70R15C 104/102R",
+        "price": 30.86,
+        "stock": 40,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bertellifotografia-17042858.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 9,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "26/06/2025"
+    },
+    {
+        "id": 20,
+        "name": "04516600000",
+        "description": "LLANTA 195R14C CONTINENTAL",
+        "price": 57.49,
+        "stock": 45,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bradikan-31043183.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 7,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "26/10/2025"
+    },
+    {
+        "id": 21,
+        "name": "04321300000",
+        "description": "LLANTA 225/70R15 TERRCAT50",
+        "price": 68.32,
+        "stock": 41,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-chris-f-38966-8419076.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 5,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "06/11/2025"
+    },
+    {
+        "id": 22,
+        "name": "15408990000",
+        "description": "LLANTA 165/70R13BARUM 5HM",
+        "price": 44.66,
+        "stock": 26,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-elpsyx-9207032.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "25/09/2025"
+    },
+    {
+        "id": 23,
+        "name": "04321370000",
+        "description": "LLANTA 245/70R16 107S FR",
+        "price": 26.05,
+        "stock": 32,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-tinchflicks-29054547.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 3,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "31/01/2025"
+    },
+    {
+        "id": 24,
+        "name": "04321350000",
+        "description": "LLANTA 255/70R16 111T FR",
+        "price": 46.98,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-thapelo-boateng-233479440-14583147.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "01/12/2025"
+    },
+    {
+        "id": 25,
+        "name": "04509920000",
+        "description": "LLANTA 225/70R15 100S FR",
+        "price": 41.28,
+        "stock": 40,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-rodrigo-chable-380091428-18502451.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "30/01/2025"
+    },
+    {
+        "id": 26,
+        "name": "04509970000",
+        "description": "LLANTA 235/60R16 100T FR",
+        "price": 43.72,
+        "stock": 24,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noelace-16108559.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "27/07/2025"
+    },
+    {
+        "id": 27,
+        "name": "15484970000",
+        "description": "LLANTA 225/70R16 103S FR",
+        "price": 45.54,
+        "stock": 34,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noblursbyshivam-9182360.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "18/08/2025"
+    },
+    {
+        "id": 28,
+        "name": "04502090000",
+        "description": "LLANTA 255/70R16 111S FR",
+        "price": 45.86,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-juan-montes-92812630-12862492.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "13/02/2025"
+    },
+    {
+        "id": 29,
+        "name": "04502980000",
+        "description": "LLANTA 265/65R17 112T FR",
+        "price": 46.37,
+        "stock": 37,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-introspectivedsgn-12920307.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 3,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "09/12/2025"
+    },
+    {
+        "id": 30,
+        "name": "04514010000",
+        "description": "LLANTA 195R15C 106/104R",
+        "price": 42.42,
+        "stock": 26,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-borta-2790256-31574041.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "28/08/2025"
+    },
+    {
+        "id": 31,
+        "name": "15571420000",
+        "description": "LLANTA 235/60R16 CCLX25",
+        "price": 82.16,
+        "stock": 40,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-107932638-28795857.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "27/11/2025"
+    },
+    {
+        "id": 32,
+        "name": "15571340000",
+        "description": "LLANTA 215/55R18 CCLX25",
+        "price": 20.42,
+        "stock": 21,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-aj4xo-30944611.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "25/10/2025"
+    },
+    {
+        "id": 33,
+        "name": "15508670000",
+        "description": "LLANTA 165/65R13 POWC 2",
+        "price": 50.14,
+        "stock": 10,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-artawkrn-20256374.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 6,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "12/01/2025"
+    },
+    {
+        "id": 34,
+        "name": "04509900000",
+        "description": "LLANTA 215/75R14 100S",
+        "price": 38.29,
+        "stock": 36,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bertellifotografia-17042858.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 4,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "04/09/2025"
+    },
+    {
+        "id": 35,
+        "name": "15508690000",
+        "description": "LLANTA 185/60R14 82H",
+        "price": 48.73,
+        "stock": 36,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bradikan-31043183.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 2,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "01/02/2025"
+    },
+    {
+        "id": 36,
+        "name": "03589100000",
+        "description": "LLANTA 205/60R16 92V",
+        "price": 96.92,
+        "stock": 26,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-chris-f-38966-8419076.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 4,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "09/12/2025"
+    },
+    {
+        "id": 37,
+        "name": "03589110000",
+        "description": "LLANTA 195/65R15 91H",
+        "price": 38.36,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-elpsyx-9207032.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 4,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "05/10/2025"
+    },
+    {
+        "id": 38,
+        "name": "15508700000",
+        "description": "LLANTA 185/65R14 86H",
+        "price": 64.4,
+        "stock": 37,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-tinchflicks-29054547.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 7,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "16/02/2025"
+    },
+    {
+        "id": 39,
+        "name": "15508930000",
+        "description": "LLANTA 185/60R14 82T",
+        "price": 58.82,
+        "stock": 22,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-thapelo-boateng-233479440-14583147.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "31/08/2025"
+    },
+    {
+        "id": 40,
+        "name": "15508740000",
+        "description": "LLANTA 195/55R15 85H",
+        "price": 66.04,
+        "stock": 24,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-rodrigo-chable-380091428-18502451.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "PLT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "13/03/2025"
+    },
+    {
+        "id": 41,
+        "name": "05221320000",
+        "description": "LLANTA 295/80R22.5 152/148M TL",
+        "price": 54.15,
+        "stock": 24,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noelace-16108559.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "23/02/2025"
+    },
+    {
+        "id": 42,
+        "name": "05153560000",
+        "description": "Llanta 12R22.5 152/148K  BU54",
+        "price": 93.81,
+        "stock": 25,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noblursbyshivam-9182360.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "16/05/2025"
+    },
+    {
+        "id": 43,
+        "name": "04121700000",
+        "description": "LLANTA 9.5R 17.5 129/127L LSR1",
+        "price": 97.62,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-juan-montes-92812630-12862492.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 4,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "17/11/2025"
+    },
+    {
+        "id": 44,
+        "name": "05151880000",
+        "description": "Llanta 295/80R22.5 GRABBER OA",
+        "price": 96.84,
+        "stock": 45,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-introspectivedsgn-12920307.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "08/01/2025"
+    },
+    {
+        "id": 45,
+        "name": "05124160000",
+        "description": "Llanta 295/80R22.5 HSR3 16 PR",
+        "price": 105.1,
+        "stock": 41,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-borta-2790256-31574041.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 2,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "26/07/2025"
+    },
+    {
+        "id": 46,
+        "name": "05140550000",
+        "description": "LLANTA 295/80R22.5 GENERAL UA",
+        "price": 22.9,
+        "stock": 27,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-107932638-28795857.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "20/12/2025"
+    },
+    {
+        "id": 47,
+        "name": "04220430000",
+        "description": "215/75R17.5 126-7124M TL CHD3",
+        "price": 66.57,
+        "stock": 15,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-aj4xo-30944611.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "14/06/2025"
+    },
+    {
+        "id": 48,
+        "name": "04940090000",
+        "description": "235/75R17.5 LSU1 US LRF 12PR",
+        "price": 36.47,
+        "stock": 45,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-artawkrn-20256374.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 7,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "28/09/2025"
+    },
+    {
+        "id": 49,
+        "name": "05122050000",
+        "description": "LLANTA 295/80R22.5 152/148M",
+        "price": 97.02,
+        "stock": 43,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bertellifotografia-17042858.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "GENERAL TIRE",
+        "publisher": "",
+        "release_date": "15/06/2025"
+    },
+    {
+        "id": 50,
+        "name": "05250610000",
+        "description": "Llanta 12R22.5 152/148K HDC1",
+        "price": 38.9,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-bradikan-31043183.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "11/04/2025"
+    },
+    {
+        "id": 51,
+        "name": "05120390000",
+        "description": "315/80R22.5 HSR ED 154/150M",
+        "price": 67.23,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-chris-f-38966-8419076.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 4,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "27/10/2025"
+    },
+    {
+        "id": 52,
+        "name": "05124120000",
+        "description": "12R22.5 152/148L CONTI HSR",
+        "price": 74.81,
+        "stock": 30,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-elpsyx-9207032.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "17/06/2025"
+    },
+    {
+        "id": 53,
+        "name": "04940040000",
+        "description": "215/75R17.5 126/124M LSU1",
+        "price": 44.4,
+        "stock": 15,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-tinchflicks-29054547.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 5,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "31/10/2025"
+    },
+    {
+        "id": 54,
+        "name": "05122020000",
+        "description": "Llanta 295/80R22.5 BF 12",
+        "price": 59.88,
+        "stock": 41,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-thapelo-boateng-233479440-14583147.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "BARUM",
+        "publisher": "",
+        "release_date": "24/09/2025"
+    },
+    {
+        "id": 55,
+        "name": "04150000000",
+        "description": "215/75R17.5 CONTI LAC3",
+        "price": 34.17,
+        "stock": 44,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-rodrigo-chable-380091428-18502451.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "01/12/2025"
+    },
+    {
+        "id": 56,
+        "name": "05155010000",
+        "description": "315/80R22.5 CONTI HAC3",
+        "price": 30.33,
+        "stock": 35,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noelace-16108559.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "07/11/2025"
+    },
+    {
+        "id": 57,
+        "name": "05126260000",
+        "description": "295/80R22.5 CONTI HAR3",
+        "price": 47.18,
+        "stock": 16,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-noblursbyshivam-9182360.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "20/11/2025"
+    },
+    {
+        "id": 58,
+        "name": "05155000000",
+        "description": "295/80R22.5 CONTI HAC3",
+        "price": 100.3,
+        "stock": 45,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/llantas/pexels-juan-montes-92812630-12862492.jpg",
+        "platforms": [
+            "LLANTA"
+        ],
+        "genres": [
+            "CVT"
+        ],
+        "discount": 0,
+        "developer": "CONTINENTAL",
+        "publisher": "",
+        "release_date": "07/10/2025"
+    },
+    {
+        "id": 59,
+        "name": "T12052",
+        "description": "BATERIA N120 SHD T4",
+        "price": 30.17,
+        "stock": 44,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-tami-19499399.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "14/12/2025"
+    },
+    {
+        "id": 60,
+        "name": "T15042",
+        "description": "BATERIA N150 HD T4",
+        "price": 46.96,
+        "stock": 32,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-shvetsa-4315570.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 4,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "18/01/2025"
+    },
+    {
+        "id": 61,
+        "name": "T10042",
+        "description": "BATERIA N100 HD T4",
+        "price": 20.57,
+        "stock": 37,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-maltelu-2244746.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "06/01/2025"
+    },
+    {
+        "id": 62,
+        "name": "T20042",
+        "description": "Batería N200 HD T",
+        "price": 91.54,
+        "stock": 12,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116224.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "24/02/2025"
+    },
+    {
+        "id": 63,
+        "name": "T03042",
+        "description": "BATERIA 30H HD T4",
+        "price": 38.27,
+        "stock": 35,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116172.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "11/08/2025"
+    },
+    {
+        "id": 64,
+        "name": "T03144",
+        "description": "BATERIA 31 HD T4",
+        "price": 24.99,
+        "stock": 33,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-cottonbro-7541358.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS PESADOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "19/09/2025"
+    },
+    {
+        "id": 65,
+        "name": "704834",
+        "description": "Bateria 48 HP S5 Sellada",
+        "price": 82.6,
+        "stock": 26,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-19x14-8478233.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "03/04/2025"
+    },
+    {
+        "id": 66,
+        "name": "603436",
+        "description": "BATERIA  34 HP I S4",
+        "price": 102.4,
+        "stock": 21,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-tami-19499399.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "12/09/2025"
+    },
+    {
+        "id": 67,
+        "name": "614026",
+        "description": "BATERIA N40 FE I S4",
+        "price": 81.42,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-shvetsa-4315570.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "25/10/2025"
+    },
+    {
+        "id": 68,
+        "name": "604236",
+        "description": "BATERIA  42 HP I S4",
+        "price": 99.69,
+        "stock": 34,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-maltelu-2244746.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "22/01/2025"
+    },
+    {
+        "id": 69,
+        "name": "7B6548",
+        "description": "BATERIA B65 MP I S5",
+        "price": 48.57,
+        "stock": 26,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116224.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "09/08/2025"
+    },
+    {
+        "id": 70,
+        "name": "604023",
+        "description": "BATERIA NS40 FE S4",
+        "price": 98.16,
+        "stock": 31,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116172.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "15/06/2025"
+    },
+    {
+        "id": 71,
+        "name": "605526",
+        "description": "BATERIA 55 FE I S4",
+        "price": 33.47,
+        "stock": 19,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-cottonbro-7541358.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "26/01/2025"
+    },
+    {
+        "id": 72,
+        "name": "604226",
+        "description": "BATERIA 42 FE I S4",
+        "price": 21.09,
+        "stock": 25,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-19x14-8478233.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "12/07/2025"
+    },
+    {
+        "id": 73,
+        "name": "602736",
+        "description": "BATERIA 27 HP I S4",
+        "price": 78.86,
+        "stock": 11,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-tami-19499399.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 4,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "13/11/2025"
+    },
+    {
+        "id": 74,
+        "name": "604232",
+        "description": "BATERIA  42 HP S4",
+        "price": 109.1,
+        "stock": 11,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-shvetsa-4315570.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "23/12/2025"
+    },
+    {
+        "id": 75,
+        "name": "614022",
+        "description": "BATERIA N40 FE S4",
+        "price": 31.33,
+        "stock": 17,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-maltelu-2244746.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 8,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "14/04/2025"
+    },
+    {
+        "id": 76,
+        "name": "603432",
+        "description": "BATERIA 34 HP S4",
+        "price": 77.28,
+        "stock": 25,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116224.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "08/09/2025"
+    },
+    {
+        "id": 77,
+        "name": "605522",
+        "description": "BATERIA 55 FE S4",
+        "price": 101.9,
+        "stock": 21,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116172.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 6,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "22/01/2025"
+    },
+    {
+        "id": 78,
+        "name": "604222",
+        "description": "BATERIA 42 FE S4",
+        "price": 39.94,
+        "stock": 36,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-cottonbro-7541358.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "18/03/2025"
+    },
+    {
+        "id": 79,
+        "name": "604832",
+        "description": "BATERIA 48 HP S4",
+        "price": 73.62,
+        "stock": 44,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-19x14-8478233.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "10/08/2025"
+    },
+    {
+        "id": 80,
+        "name": "602732",
+        "description": "BATERIA 27 HP S4",
+        "price": 61.5,
+        "stock": 40,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-tami-19499399.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "19/09/2025"
+    },
+    {
+        "id": 81,
+        "name": "706534",
+        "description": "BATERIA 65 HP S5",
+        "price": 37.66,
+        "stock": 33,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-shvetsa-4315570.jpg",
+        "platforms": [
+            "BATERIA"
+        ],
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 8,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "01/06/2025"
+    },
+    {
+        "id": 82,
+        "name": "603632",
+        "description": "BATERIA 36 HP S4",
+        "price": 76.95,
+        "stock": 23,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-maltelu-2244746.jpg",
+        "platforms": "BATERIA",
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 7,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "25/02/2025"
+    },
+    {
+        "id": 83,
+        "name": "603422",
+        "description": "BATERIA 34 FE S4",
+        "price": 52.07,
+        "stock": 42,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/baterias/pexels-lumierestudiomx-4116224.jpg",
+        "platforms": "BATERIA",
+        "genres": [
+            "BATERIAS LIVIANOS"
+        ],
+        "discount": 0,
+        "developer": "BOSCH",
+        "publisher": "",
+        "release_date": "25/02/2025"
+    },
+    {
+        "id": 84,
+        "name": "PTAUDID15400100",
+        "description": "VALVODIESEL 15W40 (GL)",
+        "price": 76.33,
+        "stock": 31,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-lumierestudiomx-4116207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "10/03/2025"
+    },
+    {
+        "id": 85,
+        "name": "PTAUGAP10300100",
+        "description": "VALVOLINE PREMIUM",
+        "price": 80.27,
+        "stock": 34,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985618.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "09/07/2025"
+    },
+    {
+        "id": 86,
+        "name": "PTAUGAS05300025",
+        "description": "PREMIUM PROTECTION",
+        "price": 99.36,
+        "stock": 14,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985616.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "21/01/2025"
+    },
+    {
+        "id": 87,
+        "name": "PTAUDID15400250",
+        "description": "VALVODIESEL 15W40",
+        "price": 104,
+        "stock": 33,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985455.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 3,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "06/05/2025"
+    },
+    {
+        "id": 88,
+        "name": "PTAIPY000884544",
+        "description": "PREMIUM PROTECTION",
+        "price": 91.95,
+        "stock": 16,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478223.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "01/07/2025"
+    },
+    {
+        "id": 89,
+        "name": "PTAUDIB154K0500",
+        "description": "BLENDPOWER SAE",
+        "price": 88.09,
+        "stock": 23,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "25/04/2025"
+    },
+    {
+        "id": 90,
+        "name": "PTAUDIB154K0025",
+        "description": "BLENDPOWER SAE",
+        "price": 20.28,
+        "stock": 27,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-lumierestudiomx-4116207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "02/12/2025"
+    },
+    {
+        "id": 91,
+        "name": "PTAUDIB154K0100",
+        "description": "BLENDPOWER SAE",
+        "price": 49.08,
+        "stock": 24,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985618.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "21/11/2025"
+    },
+    {
+        "id": 92,
+        "name": "PTAUGAR10SM0100",
+        "description": "VALVOLINE RACING",
+        "price": 28.99,
+        "stock": 25,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985616.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 3,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "17/11/2025"
+    },
+    {
+        "id": 93,
+        "name": "PTAIPYZXEDRU100",
+        "description": "ZEREX HD EXTENDED",
+        "price": 33.09,
+        "stock": 27,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985455.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "19/07/2025"
+    },
+    {
+        "id": 94,
+        "name": "PTAUDID25600500",
+        "description": "VALVODIESEL XV",
+        "price": 92.72,
+        "stock": 10,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478223.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "05/04/2025"
+    },
+    {
+        "id": 95,
+        "name": "PTAUTRHL1400500",
+        "description": "HIDROLUBE GEAR",
+        "price": 34.55,
+        "stock": 31,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "16/06/2025"
+    },
+    {
+        "id": 96,
+        "name": "PTAUTRH80900025",
+        "description": "HP GEAR OIL SAE",
+        "price": 79.39,
+        "stock": 33,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-lumierestudiomx-4116207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "21/02/2025"
+    },
+    {
+        "id": 97,
+        "name": "PTAUTRH80900500 LITRO",
+        "description": "HP GEAR OIL SAE",
+        "price": 77.61,
+        "stock": 24,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985618.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "06/08/2025"
+    },
+    {
+        "id": 98,
+        "name": "PTAUDID00400500",
+        "description": "VALVODIESEL SAE",
+        "price": 21.23,
+        "stock": 27,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985616.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 5,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "19/10/2025"
+    },
+    {
+        "id": 99,
+        "name": "PTAUGAC10300025",
+        "description": "CLASSIC SAE 10W30",
+        "price": 96.01,
+        "stock": 31,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985455.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 5,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "15/11/2025"
+    },
+    {
+        "id": 100,
+        "name": "PTAUGAC10300100",
+        "description": "CLASSIC SAE 10W30 SP GL",
+        "price": 78.14,
+        "stock": 10,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478223.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 7,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "05/06/2025"
+    },
+    {
+        "id": 101,
+        "name": "PTAUGAC20500025",
+        "description": "CLASSIC SAE 20W50 SP LT",
+        "price": 67.22,
+        "stock": 11,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-19x14-8478207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "31/03/2025"
+    },
+    {
+        "id": 102,
+        "name": "PTAUGAC20500100",
+        "description": "CLASSIC SAE 20W50 SP GL",
+        "price": 96.2,
+        "stock": 20,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-lumierestudiomx-4116207.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "05/05/2025"
+    },
+    {
+        "id": 103,
+        "name": "PTAUHIATFD20025",
+        "description": "ATF DEXRON II (LT)",
+        "price": 106.1,
+        "stock": 18,
+        "image": "https://raw.githubusercontent.com/jjgarcia6/products_images/main/aceites/pexels-artempodrez-8985618.jpg",
+        "platforms": [
+            "ACEITE"
+        ],
+        "genres": [
+            "ACEITE"
+        ],
+        "discount": 0,
+        "developer": "VALVOLINE",
+        "publisher": "",
+        "release_date": "01/11/2025"
+    }
+]

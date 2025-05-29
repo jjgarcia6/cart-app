@@ -1,69 +1,29 @@
+import { IoCart } from "react-icons/io5";
+
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + HeroUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "ABC Motor ABCM",
+  description: "Tu tienda en linea con productos al mejor precio",
   navItems: [
-    {
-      label: "Home",
-      href: "/",
-    },
-    {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
-    },
-    {
-      label: "About",
-      href: "/about",
-    },
+    { label: "Llantas", href: "/llantas" },
+    { label: "Baterias", href: "/baterias" },
+    { label: "Aceites", href: "/aceites" },
   ],
   navMenuItems: [
-    {
-      label: "Profile",
-      href: "/profile",
-    },
-    {
-      label: "Dashboard",
-      href: "/dashboard",
-    },
-    {
-      label: "Projects",
-      href: "/projects",
-    },
-    {
-      label: "Team",
-      href: "/team",
-    },
-    {
-      label: "Calendar",
-      href: "/calendar",
-    },
-    {
-      label: "Settings",
-      href: "/settings",
-    },
-    {
-      label: "Help & Feedback",
-      href: "/help-feedback",
-    },
-    {
-      label: "Logout",
-      href: "/logout",
-    },
+    // aquí puedes mantener perfil, dashboard, etc. o adaptarlos
+    { label: "Perfil", href: "/profile" },
+    { label: "Pedidos", href: "/orders" },
+    { label: "Ajustes", href: "/settings" },
+    { label: "Cerrar sesión", href: "/logout" },
   ],
   links: {
-    github: "https://github.com/heroui-inc/heroui",
-    twitter: "https://twitter.com/hero_ui",
-    docs: "https://heroui.com",
-    discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev",
+    github: "https://github.com/tu-org/tu-repo",
+    docs: "/docs",
+    cart: "/cart",
+  },
+  // opcionalmente, puedes exponer un icono de carrito en el navbar
+  icons: {
+    cart: IoCart,
   },
 };
