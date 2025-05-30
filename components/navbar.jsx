@@ -15,8 +15,8 @@ export const Navbar = () => {
         <HeroUINavbar
             className="bg-black shadow-sm z-50"
             maxWidth="xl"
-            position="sticky"
-        >
+            position="sticky">
+
             <NavbarContent className="px-4" justify="center">
                 <NavbarBrand>
                     <NextLink href="/" className="flex items-center gap-2">
@@ -25,8 +25,7 @@ export const Navbar = () => {
                             src="/logo.png"
                             width={128}
                             height={128}
-                            className="object-contain"
-                        />
+                            className="object-contain" />
                         <span className="font-bold text-xl">{siteConfig.name}</span>
                     </NextLink>
                 </NavbarBrand>
@@ -36,8 +35,7 @@ export const Navbar = () => {
                         <NavbarItem key={item.href}>
                             <NextLink
                                 href={item.href}
-                                className="text-white hover:text-yellow-400 transition-colors"
-                            >
+                                className="text-white hover:text-yellow-400 transition-colors">
                                 {item.label}
                             </NextLink>
                         </NavbarItem>
@@ -49,9 +47,9 @@ export const Navbar = () => {
                 <NavbarItem>
                     <NextLink
                         href="/cart"
-                        className="relative flex items-center text-gray-800 hover:text-yellow-400 transition-colors"
-                    >
-                        {/* Icono de carrito */}
+                        className="relative flex items-center text-gray-800 
+                        hover:text-yellow-400 transition-colors">
+
                         <IoCart size={24} />
 
                         {itemCount > 0 && (

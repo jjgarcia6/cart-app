@@ -52,11 +52,11 @@ export default function ProductPage({ params }) {
 
             <ul className="grid grid-cols-2 gap-x-6 gap-y-2 text-sm">
                 <li><strong>Stock:</strong> {product.stock}</li>
-                <li><strong>Desarrollador:</strong> {product.developer}</li>
+                <li><strong>Marca:</strong> {product.developer}</li>
                 <li><strong>Publicador:</strong> {product.publisher}</li>
                 <li><strong>Fecha de lanzamiento:</strong> {product.release_date}</li>
-                <li><strong>Plataformas:</strong> {product.platforms}</li>
-                <li><strong>Géneros:</strong> {product.genres}</li>
+                <li><strong>Línea:</strong> {product.platforms}</li>
+                <li><strong>Categoría:</strong> {product.genres}</li>
             </ul>
 
             <div className="text-center">
